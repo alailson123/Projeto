@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1506267499 source:c:\users\alailson\desktop\projeto\poligono.cpp
+	"Poligono.h"
+	"Ponto.h"
+	<cmath>
+	<iostream>
+
+1506267478 c:\users\alailson\desktop\projeto\poligono.h
+	"Ponto.h"
+
+1506267278 c:\users\alailson\desktop\projeto\ponto.h
+
+1506267275 source:c:\users\alailson\desktop\projeto\ponto.cpp
+	"Ponto.h"
+	<iostream>
+	<cmath>
+
+1506267882 source:c:\users\alailson\desktop\projeto\retangulo.cpp
+	"Retangulo.h"
+
+1506267448 c:\users\alailson\desktop\projeto\retangulo.h
+	"Poligono.h"
+
+1506267676 source:c:\users\alailson\desktop\projeto\main.cpp
+	<iostream>
+	<cmath>
+	"Retangulo.h"
+
